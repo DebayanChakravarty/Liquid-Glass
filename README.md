@@ -16,12 +16,7 @@ Clean code structure with scalability in mind
 
 # 🚀 Tech Stack:
 
-React.js
-
 Tailwind CSS / SCSS
 
-Framer Motion
-
-Vite / CRA (whichever you use)
-
-Optional: Three.js for depth or floating glass elements
+# Command used 
+ng new my-liquid-glass-project --routing --style=scss --standalone=false
